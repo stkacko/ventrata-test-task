@@ -1,0 +1,6 @@
+BASE_URL = "https://checkout-supplier-preview-page.pages.dev/task_3"
+PRODUCT_ID = "51b3fb8a-af79-49b0-b7ec-252be1c56b2b"
+CARD_NUMBER = "5577 0000 5577 0004"
+CARD_EXPIRY = "03/30"
+CARD_CVC = "737"
+CARD_HOLDER = "John Doe"
